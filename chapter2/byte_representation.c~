@@ -1,0 +1,6 @@
+/* 
+** Code to print the byte representation of program objects.
+** This code uses casting to circumvent the type system.
+** Similar functions are easily defined for other data types.
+*/
+
